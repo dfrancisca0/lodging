@@ -18,7 +18,7 @@ class Lodging extends HTMLElement {
           display: flex;
           justify-content: center;
           align-items: center;
-          height: 100vh
+          height: 10vh
         }
 
         button {
